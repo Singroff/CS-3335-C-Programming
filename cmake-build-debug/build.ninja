@@ -61,6 +61,12 @@ build CMakeFiles/C_Programming_Course.dir/pun.c.obj: C_COMPILER__C_Programming_C
   OBJECT_DIR = CMakeFiles\C_Programming_Course.dir
   OBJECT_FILE_DIR = CMakeFiles\C_Programming_Course.dir
 
+build CMakeFiles/C_Programming_Course.dir/FtoCinC.c.obj: C_COMPILER__C_Programming_Course_Debug C$:/Users/caleb/CLionProjects/C$ Programming$ Course/FtoCinC.c || cmake_object_order_depends_target_C_Programming_Course
+  DEP_FILE = CMakeFiles\C_Programming_Course.dir\FtoCinC.c.obj.d
+  FLAGS = -g -std=gnu99
+  OBJECT_DIR = CMakeFiles\C_Programming_Course.dir
+  OBJECT_FILE_DIR = CMakeFiles\C_Programming_Course.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target C_Programming_Course
@@ -69,7 +75,7 @@ build CMakeFiles/C_Programming_Course.dir/pun.c.obj: C_COMPILER__C_Programming_C
 #############################################
 # Link the executable C_Programming_Course.exe
 
-build C_Programming_Course.exe: C_EXECUTABLE_LINKER__C_Programming_Course_Debug CMakeFiles/C_Programming_Course.dir/main.c.obj CMakeFiles/C_Programming_Course.dir/pun.c.obj
+build C_Programming_Course.exe: C_EXECUTABLE_LINKER__C_Programming_Course_Debug CMakeFiles/C_Programming_Course.dir/main.c.obj CMakeFiles/C_Programming_Course.dir/pun.c.obj CMakeFiles/C_Programming_Course.dir/FtoCinC.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\C_Programming_Course.dir
