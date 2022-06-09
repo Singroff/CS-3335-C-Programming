@@ -3,4 +3,4 @@ project(C_Programming_Course C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(C_Programming_Course main.c)
+add_executable(C_Programming_Course main.c pun.c)
