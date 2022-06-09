@@ -1,0 +1,14 @@
+# ninja log v5
+1	79	6764887617187539	CMakeFiles/C_Programming_Course.dir/main.c.obj	14b5eac17e77e42c
+1	236	6764887394073431	CMakeFiles/C_Programming_Course.dir/pun.c.obj	a83edce486fda627
+79	196	6764887618318448	C_Programming_Course.exe	68c7c3f7ae27a06a
+28	350	6765012138410935	CMakeFiles/C_Programming_Course.dir/pun.c.obj	a83edce486fda627
+23	360	6765012138410935	CMakeFiles/C_Programming_Course.dir/FtoCinC.c.obj	a81d10c0e10b0096
+2	377	6765012138581425	CMakeFiles/C_Programming_Course.dir/main.c.obj	14b5eac17e77e42c
+378	723	6765012142151617	C_Programming_Course.exe	6f1851ae85d73ac0
+2	314	6765022183347394	CMakeFiles/C_Programming_Course.dir/FtoCinC.c.obj	a81d10c0e10b0096
+369	1246	6765022192644556	C_Programming_Course.exe	6f1851ae85d73ac0
+4	115	6765022671576471	CMakeFiles/C_Programming_Course.dir/FtoCinC.c.obj	a81d10c0e10b0096
+116	223	6765022672604046	C_Programming_Course.exe	6f1851ae85d73ac0
+2	110	6765022790525218	CMakeFiles/C_Programming_Course.dir/FtoCinC.c.obj	a81d10c0e10b0096
+110	239	6765022791796210	C_Programming_Course.exe	6f1851ae85d73ac0
