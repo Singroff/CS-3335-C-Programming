@@ -1,3 +1,0 @@
-C:/Users/caleb/CLionProjects/C Programming Course/cmake-build-debug/CMakeFiles/C_Programming_Course.dir
-C:/Users/caleb/CLionProjects/C Programming Course/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/caleb/CLionProjects/C Programming Course/cmake-build-debug/CMakeFiles/rebuild_cache.dir
